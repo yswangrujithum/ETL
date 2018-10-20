@@ -44,13 +44,32 @@ The cleaned datasets are ready to be loaded onto the database where one can extr
 
 ## Data Exploration
 ### Recycling articles in New York City
+
+For the first part, we observed the recycling behavior of the New Yorkers from the news articles. We choose the NYTimes as it is the best representation of the data from New York Cities. Instead of using the NYTimes API, we directly scraped the article titles from the website using the query: New York Recycle. 
+<Picture> 
+
 ### Recycling Rate in New York City
+
 ### Location of the Recycling Bin
+
+After we obtained the data from New York recycling rate, we have formulated the questions whether the location of the recycling bins influenced the recycling behavior of the New Yorkers. We obtained the recycling bins location dataset from Kaggle.com and map the location of the recycling bins. 
+<map>
+  
 ### Location of the Electronic recycling facility 
+
+Beside the location of the recycling bins, we also observed the location of the electronic recycling bins. We have also formulated the assumption that electronic recycling bins have influenced the recycling behavior of the New Yorkers. However, the location of the electronic containers are inexplicit, and we cannot conclude whether those location influenced people's recycling behaviors. 
+<map>
+  
+### Loading the data to MySQL Database
+
+All of our clean datasets located within the database: nyc_recycle_db for further investigations. We choose MySQL over NoSQL despite the fact that NoSQL is more straightforward. One of the requirements for our data is to prevent data redundancy. All of the datasets should be standardized in order to carry out the meaningful analysis. 
+<screen shot>
 
 ## Conclusion
 Many of the news headlines expressed specific concern about the recycling rate for the Newyorkers. Many of them find recycling can be excessive, irrelevant, and redundant tasks. Therefore, further investigation was conducted using different datasets regarding the recycling behavior of the NewYorkers.
 
 Referring to the recycling bin location, one can see that the district with a higher recycling rate has more recycling bins than the district with several recycling bins. Of course, we understand that Increasing the recycling bin in the area will increase the recycling rate within the community. However, the data has reassured our assumption that the community will increase their recycling rate if there are more available recycling bins. 
+
+
 
 
