@@ -1,7 +1,7 @@
-Facility_Name,Registration_Number,County,Street_Address,City,State,Zip_Code,Contact_Name,Phone_Number,Extension,Website,Location_1,lat,lgn
+Facility Name,Registration Number,County,Street Address,City,State,Zip Code,Contact Name,Phone Number,Extension,Website,Location 1,lat,lgn
 Jerge's Used Auto Parts Inc.,1033,Allegany,7708 County Road 26,Belfast,NY,14711,Annette Kish,585-365-2758,,,"7708 County Road
-Belfast, NY 14711",42.335675,-78.098038
-"Elemet, Inc.",1213,Columbia,1 Industrial Tract,Hudson,NY,12534,Alex Delia,518-828-4136,5,,"1 Industrial
+Belfast, NY 14711",42.33567499999999,-78.098038
+"Elemet, Inc.",1213,Columbia,1 Industrial Tract,Hudson,NY,12534,Alex Delia,518-828-4136,5.0,,"1 Industrial
 Hudson, NY 12534",42.2474987,-73.7610235
 E-Scrap of Syracuse,1192,Onondaga,1759 Route 11,Tully,NY,13159,Joe D'Agostino,315-382-7885,,http://www.e-scrap.co,"1759 Route
 Tully, NY 13159",42.857372,-76.116512
@@ -27,7 +27,7 @@ Endicott, NY 13760
 (42.095155, -76.066096)",42.094886,-76.066062
 "Electronic Waste Recycling, Inc.",1065,Suffolk,"1648 Locust Avenue, Suite H",Bohemia,NY,11716,Michael Marro,631-256-6610,,,"1648 Locust Avenue
 Bohemia, NY 11716
-(40.785033, -73.117615)",40.7849524,-73.1188249
+(40.785033, -73.117615)",40.7849524,-73.11882489999999
 Computer Connection of CNY Inc.,947,Oneida,11206 Cosby Manor Road,Utica,NY,13502,Mike Buffa,315-724-2209,,http://www.ccnytech.com/,"11206 Cosby Manor Road
 Utica, NY 13502
 (43.110854, -75.145988)",43.109854,-75.146613
@@ -36,13 +36,13 @@ Brooklyn, NY 11222
 (40.734571, -73.944753)",40.7355207,-73.9443861
 Advanced Recovery Inc.,28,Orange,41 Mechanic Street,Port Jervis,NY,12771,Mark Rea,845-858-8809,,http://advancedrecovery.com,"41 Mechanic Street
 Port Jervis, NY 12771
-(41.381421, -74.702664)",41.381154,-74.702059
+(41.381421, -74.702664)",41.381154,-74.70205899999999
 AAA Computer Repair,1196,Onondaga,8112 Portobello Way,Liverpool,NY,13090,Bryon Haacke,315-664-2048,,,"8112 Portobello Way
 Liverpool, NY 13090
 (43.166074, -76.226936)",43.1658884,-76.2270113
 Schoharie County ARC/ Toe Path Industries,1204,Schoharie,121 Opportunity Drive,Schoharie,NY,12157,David DiNicola,518-295-8130,,http://www.schohariearc.org,"121 Opportunity Drive
 Schoharie, NY 12157
-(42.640726, -74.324951)",42.640732,-74.3261001
+(42.640726, -74.324951)",42.640732,-74.32610009999999
 Ben Weitsman of Albany,1134,Albany,300 Smith Boulevard,Albany,NY,12202,Anthony Marro ,518-462-4444,,http://upstateshredding.com,"300 Smith Boulevard
 Albany, NY 12202
 (42.624747, -73.75848)",42.6251608,-73.7595072
@@ -51,28 +51,28 @@ Bronx, NY 10466
 (40.895963, -73.86035)",40.8958465,-73.8600544
 "E-Green Recycling Management, LLC",926,Suffolk,140 Corporate Drive,Holtsville,NY,11742,Bill Rouse,631-732-6403,,http://www.egreenrecyclingmanagement.com,"140 Corporate Drive
 Holtsville, NY 11742
-(40.80954, -73.038301)",40.8113887,-73.0390772
+(40.80954, -73.038301)",40.81138869999999,-73.0390772
 eWorks ESI HASC,998,Kings,5601 1st Avenue,Brooklyn,NY,11220,Yossi Dresdner,718-745-7575,,http://www.eworksesi.org,"5601 1st Avenue
 Brooklyn, NY 11220
-(40.646842, -74.022845)",40.6467617,-74.0224383
+(40.646842, -74.022845)",40.6467617,-74.02243829999999
 SouthernTier-e-waste Recycling,1066,Steuben,3940 West Hill Road,Painted Post,NY,14870,Donald Gulick,607-329-4497,,,"3940 West Hill Road
 Painted Post, NY 14870
 (42.191966, -77.079914)",42.1922024,-77.079448
 "ZLD Tech Enterprise, Inc. ",1207,New York,114 Bowery Street,New York,NY,10013,Enze Wang,646-236-5099,,,"114 Bowery Street
 New York, NY 10013
-(40.718134, -73.994948)",40.7182595,-73.9953302
+(40.718134, -73.994948)",40.71825949999999,-73.9953302
 Crestwood Metal Corporation,146,Suffolk,1100 Lincoln Avenue,Holbrook,NY,11741,Sebastian Passarello,631-567-2727,,http://crestwoodmetal.com,"1100 Lincoln Avenue
 Holbrook, NY 11741
-(40.77468, -73.083522)",40.7742959,-73.084691
-"Tekovery, Inc.",686,Westchester,560 South 3rd Avenue,Mount Vernon,NY,10550,Andrew Orben,914-226-8322 ,114,http://www.tekovery.com,"560 South 3rd Avenue
+(40.77468, -73.083522)",40.7742959,-73.08469099999999
+"Tekovery, Inc.",686,Westchester,560 South 3rd Avenue,Mount Vernon,NY,10550,Andrew Orben,914-226-8322 ,114.0,http://www.tekovery.com,"560 South 3rd Avenue
 Mount Vernon, NY 10550
-(40.898088, -73.830495)",40.8976684,-73.8311546
+(40.898088, -73.830495)",40.8976684,-73.83115459999999
 ACRMD Community,1130,Queens,2435 Harway Avenue,Brooklyn,NY,11214,Jerry Bucher,646-438-0548,,,"2435 Harway Avenue
 Brooklyn, NY 11214
 (40.593375, -73.993569)",40.5937346,-73.9935627
 Midisland Salvage Corporation,1146,Suffolk,1007 Long Island Avenue,Deer Park,NY,11729,James Marro ,631-942-1383,,http://midislandsalvagecorp.com,"1007 Long Island Avenue
 Deer Park, NY 11729
-(40.765461, -73.313389)",40.7659252,-73.3129754
+(40.765461, -73.313389)",40.7659252,-73.31297540000001
 Bomet Recovery LLC,1096,Orleans,152 Mc Kinstry Street,Albion,NY,14411,Carrie Dunn,585-283-4135,,,"152 Mc Kinstry Street
 Albion, NY 14411
 (43.242578, -78.18634)",43.242587,-78.187218
@@ -99,23 +99,23 @@ Buffalo, NY 14210
 (42.869651, -78.827137)",42.869629,-78.8265842
 Evolution Recycling Inc.,1008,Fulton,20 Crescendoe Road,Johnstown,NY,12095,Gary Bishop,518-774-3227,,,"20 Crescendoe Road
 Johnstown, NY 12095
-(43.012624, -74.369889)",43.0123052,-74.3682911
+(43.012624, -74.369889)",43.0123052,-74.36829110000001
 Lower East Side Ecology Center,120,Kings,469 President Street,Brooklyn,NY,11215,Christine Datz-Romero,212-477-4022,,http://www.lesecologycenter.org,"469 President Street
 Brooklyn, NY 11215
 (40.678385, -73.987615)",40.678498,-73.9875421
 EWASTE+,138,Ontario,7318 Victor-Mendon Road,Victor,NY,14564,Mike Whyte,585-924-3840,,http://www.ewaste.com,"7318 Victor-Mendon Road
 Victor, NY 14564
-(42.994854, -77.433304)",42.9958127,-77.4338014
+(42.994854, -77.433304)",42.99581269999999,-77.4338014
 "PCR Metals, Inc.",1202,Nassau,18 Fox Hunt Lane,Great Neck,NY,11020,Peter Ross,516-238-0344,,,"18 Fox Hunt Lane
 Great Neck, NY 11020
-(40.769975, -73.717146)",40.7700496,-73.7174674
+(40.769975, -73.717146)",40.7700496,-73.71746739999999
 King Metal Corporation of New York,734,Nassau,70 New Street,Oceanside,NY,11570,Charles Levine,516-536-5464,,,"70 New Street
 Oceanside, NY 11570
 (40.636353, -73.659147)",40.6362528,-73.6592299
 "First Class Aire, LLC dba First Class Services",873,St. Lawrence,495 West Parishville Road,Potsdam,NY,13676,Lisa Clothier,315-265-1003,,http://www.firstclassnny.com,"495 West Parishville Road
 Potsdam, NY 13676
 (44.623329, -74.953199)",44.6233,-74.9547
-"Maven Technologies, LLC",123,Monroe,1450 Lyell Avenue,Rochester,NY,14606,Ken Johnson,585-458-2460 ,225,http://www.maventech.com,"1450 Lyell Avenue
+"Maven Technologies, LLC",123,Monroe,1450 Lyell Avenue,Rochester,NY,14606,Ken Johnson,585-458-2460 ,225.0,http://www.maventech.com,"1450 Lyell Avenue
 Rochester, NY 14606
 (43.164661, -77.661584)",43.1664091,-77.6616659
 "Sir Scrap-A-Lot Recycling, LLC dba DiSK Data Destruction",1102,Suffolk,5 Hilltop Court,Rocky Point,NY,11778,Chris McDonald,631-923-7600,,,"5 Hilltop Court
@@ -153,7 +153,7 @@ Troy, NY 12180
 (42.721206, -73.695043)",42.7209927,-73.6948326
 National Computer Liquidators Inc.,245,Suffolk,110 Bi County Boulevard. Suite 106,Farmingdale,NY,11735,James Hoellerman,516-342-7797,,,"110 Bi County Boulevard
 Farmingdale, NY 11735
-(40.726577, -73.427922)",40.7263771,-73.4288865
+(40.726577, -73.427922)",40.7263771,-73.42888649999999
 "Recycle Corp of Champlain NY, LLC",1194,Clinton,"100 Walnut Street, Door 19",Champlain,NY,12919,Norman Bernstein,518-304-1818,,,"100 Walnut Street
 Champlain, NY 12919
 (44.986029, -73.434121)",44.985169,-73.434336
@@ -162,4 +162,4 @@ Horseheads, NY 14845
 (42.163611, -76.872494)",42.1627376,-76.8727267
 Arrow Scrap Corporation,1053,Suffolk,1120 Lincoln Avenue,Holbrook,NY,11741,Don Galindo,631-319-1910,,http://www.arrowscrap.com,"1120 Lincoln Avenue
 Holbrook, NY 11741
-(40.77623, -73.083659)",40.7762594,-73.0845213
+(40.77623, -73.083659)",40.7762594,-73.08452129999999
